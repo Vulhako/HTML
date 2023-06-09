@@ -1,0 +1,28 @@
+body{
+    background-color: azure;
+}
+
+section{
+    background-color: oldlace;
+
+}
+p{
+    margin-top: 10px;
+    margin-bottom: 18px;
+    font-size: 17px;
+}
+
+h1{
+    text-align: center;
+}
+span {
+    background-color: rgb(242, 160, 160);
+    font-size: 21px;
+    
+  }
+  .mid{
+    text-align: center;
+  }
+  .x{
+    color: crimson;
+  }
